@@ -10,6 +10,7 @@ public class astronautController : MonoBehaviour{
 
     void Start(){
         rb2d = GetComponent<Rigidbody2D> ();
+        rb2d.freezeRotation = true;
         count = 0;
     }
 
