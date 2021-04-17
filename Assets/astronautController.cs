@@ -4,6 +4,7 @@ using UnityEngine.UI;
 
 public class astronautController : MonoBehaviour{
     public float speed;
+    public Text GiftShop, Info;
 
     private int count;
     private Rigidbody2D rb2d;

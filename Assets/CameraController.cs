@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//rpg
 public class CameraController : MonoBehaviour {
 
     public GameObject astronaut;
